@@ -69,20 +69,26 @@ Superstore Sales Dataset from Kaggle.
 
 📷 Dashboard Screenshots
 
- Dashboard Overview
-![Dashboard](Screenshots/dashboard1.png)
+### Dashboard Overview
+
+![Dashboard Overview](Screenshots/dashboard1.png)
 
 ---
 
- 📁 Project Structure
+📁 Project Structure
 
 Business-Sales-Performance-Analytics/
 │
 ├── Dataset/
+│   └── SampleSuperstore.csv
+│
 ├── Dashboard/
+│   └── BusinessSalesDashboard.pbix
+│
 ├── Screenshots/
-├── README.md
-└── Insights_Report.pdf
+│   └── dashboard1.png
+│
+└── README.md
 
 ---
 
