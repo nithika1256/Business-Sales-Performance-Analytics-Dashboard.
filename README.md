@@ -69,14 +69,15 @@ Superstore Sales Dataset from Kaggle.
 
 📷 Dashboard Screenshots
 
-### Dashboard Overview
+ Dashboard Overview
 
 ![Dashboard Overview](Screenshots/dashboard1.png)
 
 ---
 
-📁 Project Structure
+ 📁 Project Structure
 
+```text
 Business-Sales-Performance-Analytics/
 │
 ├── Dataset/
@@ -89,8 +90,9 @@ Business-Sales-Performance-Analytics/
 │   └── dashboard1.png
 │
 └── README.md
+```
 
----
+
 
 ## 🚀 Conclusion
 This project demonstrates how business sales data can be transformed into meaningful insights using analytics and visualization techniques.
