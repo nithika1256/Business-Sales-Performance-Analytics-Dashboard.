@@ -71,7 +71,7 @@ Superstore Sales Dataset from Kaggle.
 
  Dashboard Overview
 
-![Dashboard Overview](Screenshots/dashboard.png)
+[Dashboard Overview](Screenshots/dashboard.png)
 
 ---
 
